@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/03-multi-threading/03-multi-threading.iml" filepath="$PROJECT_DIR$/LearningJournal/03-multi-threading/03-multi-threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/11-pos-fanout/11-pos-fanout/11-pos-fanout.iml" filepath="$PROJECT_DIR$/LearningJournal/11-pos-fanout/11-pos-fanout/11-pos-fanout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/33-advert-ctr/advert-ctr.iml" filepath="$PROJECT_DIR$/LearningJournal/33-advert-ctr/advert-ctr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/22-age-count/age-count.iml" filepath="$PROJECT_DIR$/LearningJournal/22-age-count/age-count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/14-avro-to-pojo/avro-to-pojo.iml" filepath="$PROJECT_DIR$/LearningJournal/14-avro-to-pojo/avro-to-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/07-callback-hello-producer/callback-hello-producer.iml" filepath="$PROJECT_DIR$/LearningJournal/07-callback-hello-producer/callback-hello-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/24-counting-window/counting-window.iml" filepath="$PROJECT_DIR$/LearningJournal/24-counting-window/counting-window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edge/edge.iml" filepath="$PROJECT_DIR$/edge/edge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/02-hello-producer/hello-producer.iml" filepath="$PROJECT_DIR$/LearningJournal/02-hello-producer/hello-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/10-hello-streams/hello-streams.iml" filepath="$PROJECT_DIR$/LearningJournal/10-hello-streams/hello-streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/intellij.iml" filepath="$PROJECT_DIR$/.idea/intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/12-json-to-pojo/json-to-pojo.iml" filepath="$PROJECT_DIR$/LearningJournal/12-json-to-pojo/json-to-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/13-json-to-pojo/json-to-pojo (1).iml" filepath="$PROJECT_DIR$/LearningJournal/13-json-to-pojo/json-to-pojo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/21-kstream-aggregate/kstream-aggregate.iml" filepath="$PROJECT_DIR$/LearningJournal/21-kstream-aggregate/kstream-aggregate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/31-kstream-gktable-join/kstream-gktable-join.iml" filepath="$PROJECT_DIR$/LearningJournal/31-kstream-gktable-join/kstream-gktable-join.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/29-kstream-join/kstream-join.iml" filepath="$PROJECT_DIR$/LearningJournal/29-kstream-join/kstream-join.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/23-ktable-aggregate/ktable-aggregate.iml" filepath="$PROJECT_DIR$/LearningJournal/23-ktable-aggregate/ktable-aggregate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/35-ktable-aggregate-query/ktable-aggregate-query.iml" filepath="$PROJECT_DIR$/LearningJournal/35-ktable-aggregate-query/ktable-aggregate-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/30-ktable-join/ktable-join.iml" filepath="$PROJECT_DIR$/LearningJournal/30-ktable-join/ktable-join.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/08-partition-producer/partition-producer.iml" filepath="$PROJECT_DIR$/LearningJournal/08-partition-producer/partition-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/16-pos-fanout-avro/pos-fanout-avro.iml" filepath="$PROJECT_DIR$/LearningJournal/16-pos-fanout-avro/pos-fanout-avro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/05-pos-simulator/pos-simulator.iml" filepath="$PROJECT_DIR$/LearningJournal/05-pos-simulator/pos-simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/15-pos-simulator-avro/pos-simulator-avro.iml" filepath="$PROJECT_DIR$/LearningJournal/15-pos-simulator-avro/pos-simulator-avro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/09-pos-validator/pos-validator.iml" filepath="$PROJECT_DIR$/LearningJournal/09-pos-validator/pos-validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/17-rewards-in-memory-state/rewards-in-memory-state.iml" filepath="$PROJECT_DIR$/LearningJournal/17-rewards-in-memory-state/rewards-in-memory-state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/20-rewards-table/rewards-table.iml" filepath="$PROJECT_DIR$/LearningJournal/20-rewards-table/rewards-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/27-session-window/session-window.iml" filepath="$PROJECT_DIR$/LearningJournal/27-session-window/session-window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/01-storage-demo/storage-demo.iml" filepath="$PROJECT_DIR$/LearningJournal/01-storage-demo/storage-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/18-streaming-table/streaming-table.iml" filepath="$PROJECT_DIR$/LearningJournal/18-streaming-table/streaming-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/06-sync-hello-producer/sync-hello-producer.iml" filepath="$PROJECT_DIR$/LearningJournal/06-sync-hello-producer/sync-hello-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/32-top3-news/top3-news.iml" filepath="$PROJECT_DIR$/LearningJournal/32-top3-news/top3-news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/34-topology-test/topology-test.iml" filepath="$PROJECT_DIR$/LearningJournal/34-topology-test/topology-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/04-transactional-producer/transactional-producer.iml" filepath="$PROJECT_DIR$/LearningJournal/04-transactional-producer/transactional-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/25-window-grace/window-grace.iml" filepath="$PROJECT_DIR$/LearningJournal/25-window-grace/window-grace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/26-hopping-window/window-grace (1).iml" filepath="$PROJECT_DIR$/LearningJournal/26-hopping-window/window-grace (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/28-window-supress/window-suppress.iml" filepath="$PROJECT_DIR$/LearningJournal/28-window-supress/window-suppress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningJournal/19-word-count/word-count.iml" filepath="$PROJECT_DIR$/LearningJournal/19-word-count/word-count.iml" />
+    </modules>
+  </component>
+</project>

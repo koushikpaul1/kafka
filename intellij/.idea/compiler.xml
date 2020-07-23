@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="json-to-pojo (1)" />
+        <module name="advert-ctr" />
+        <module name="pos-validator" />
+        <module name="pos-fanout-avro" />
+        <module name="window-grace (1)" />
+        <module name="kstream-gktable-join" />
+        <module name="ktable-aggregate" />
+        <module name="streaming-table" />
+        <module name="ktable-aggregate-query" />
+        <module name="window-suppress" />
+        <module name="storage-demo" />
+        <module name="session-window" />
+        <module name="window-grace" />
+        <module name="ktable-join" />
+        <module name="topology-test" />
+        <module name="sync-hello-producer" />
+        <module name="age-count" />
+        <module name="avro-to-pojo" />
+        <module name="03-multi-threading" />
+        <module name="json-to-pojo" />
+        <module name="edge" />
+        <module name="kstream-join" />
+        <module name="kstream-aggregate" />
+        <module name="hello-streams" />
+        <module name="partition-producer" />
+        <module name="transactional-producer" />
+        <module name="counting-window" />
+        <module name="pos-simulator" />
+        <module name="pos-simulator-avro" />
+        <module name="callback-hello-producer" />
+        <module name="11-pos-fanout" />
+        <module name="word-count" />
+        <module name="hello-producer" />
+        <module name="top3-news" />
+        <module name="rewards-in-memory-state" />
+        <module name="rewards-table" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="03-multi-threading" target="1.8" />
+      <module name="11-pos-fanout" target="1.8" />
+      <module name="advert-ctr" target="1.8" />
+      <module name="age-count" target="1.8" />
+      <module name="avro-to-pojo" target="1.8" />
+      <module name="callback-hello-producer" target="1.8" />
+      <module name="counting-window" target="1.8" />
+      <module name="edge" target="1.8" />
+      <module name="hello-producer" target="1.8" />
+      <module name="hello-streams" target="1.8" />
+      <module name="json-to-pojo" target="1.8" />
+      <module name="json-to-pojo (1)" target="1.8" />
+      <module name="kstream-aggregate" target="1.8" />
+      <module name="kstream-gktable-join" target="1.8" />
+      <module name="kstream-join" target="1.8" />
+      <module name="ktable-aggregate" target="1.8" />
+      <module name="ktable-aggregate-query" target="1.8" />
+      <module name="ktable-join" target="1.8" />
+      <module name="partition-producer" target="1.8" />
+      <module name="pos-fanout-avro" target="1.8" />
+      <module name="pos-simulator" target="1.8" />
+      <module name="pos-simulator-avro" target="1.8" />
+      <module name="pos-validator" target="1.8" />
+      <module name="rewards-in-memory-state" target="1.8" />
+      <module name="rewards-table" target="1.8" />
+      <module name="session-window" target="1.8" />
+      <module name="storage-demo" target="1.8" />
+      <module name="streaming-table" target="1.8" />
+      <module name="sync-hello-producer" target="1.8" />
+      <module name="top3-news" target="1.8" />
+      <module name="topology-test" target="1.8" />
+      <module name="transactional-producer" target="1.8" />
+      <module name="window-grace" target="1.8" />
+      <module name="window-grace (1)" target="1.8" />
+      <module name="window-suppress" target="1.8" />
+      <module name="word-count" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

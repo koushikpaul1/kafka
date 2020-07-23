@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/edge/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/22-age-count/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/32-top3-news/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/11-pos-fanout/11-pos-fanout/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/19-word-count/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/33-advert-ctr/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/30-ktable-join/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/01-storage-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/12-json-to-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/13-json-to-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/14-avro-to-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/25-window-grace/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/29-kstream-join/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/05-pos-simulator/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/09-pos-validator/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/10-hello-streams/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/20-rewards-table/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/34-topology-test/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/02-hello-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/26-hopping-window/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/27-session-window/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/28-window-supress/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/03-multi-threading/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/16-pos-fanout-avro/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/18-streaming-table/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/24-counting-window/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/23-ktable-aggregate/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/21-kstream-aggregate/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/08-partition-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/15-pos-simulator-avro/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/06-sync-hello-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/31-kstream-gktable-join/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/04-transactional-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/35-ktable-aggregate-query/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/07-callback-hello-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/LearningJournal/17-rewards-in-memory-state/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="14" project-jdk-type="JavaSDK" />
+</project>

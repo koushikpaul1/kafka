@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="33-advert-ctr" />
+    <orderEntry type="module" module-name="21-kstream-aggregate" />
+    <orderEntry type="module" module-name="11-pos-fanout" />
+    <orderEntry type="module" module-name="17-rewards-in-memory-state" />
+    <orderEntry type="module" module-name="27-session-window" />
+    <orderEntry type="module" module-name="16-pos-fanout-avro" />
+    <orderEntry type="module" module-name="32-top3-news" />
+    <orderEntry type="module" module-name="main" />
+    <orderEntry type="module" module-name="15-pos-simulator-avro" />
+    <orderEntry type="module" module-name="14-avro-to-pojo" />
+    <orderEntry type="module" module-name="29-kstream-join" />
+    <orderEntry type="module" module-name="30-ktable-join" />
+    <orderEntry type="module" module-name="31-kstream-gktable-join" />
+    <orderEntry type="module" module-name="25-window-grace" />
+    <orderEntry type="module" module-name="09-pos-validator" />
+    <orderEntry type="module" module-name="35-ktable-aggregate-query" />
+    <orderEntry type="module" module-name="05-pos-simulator" />
+    <orderEntry type="module" module-name="23-ktable-aggregate" />
+    <orderEntry type="module" module-name="24-counting-window" />
+    <orderEntry type="module" module-name="13-json-to-pojo" />
+    <orderEntry type="module" module-name="28-window-supress" />
+    <orderEntry type="module" module-name="26-hopping-window" />
+    <orderEntry type="module" module-name="20-rewards-table" />
+    <orderEntry type="module" module-name="35-ktable-aggregate-query" />
+    <orderEntry type="module" module-name="16-pos-fanout-avro" />
+    <orderEntry type="module" module-name="25-window-grace" />
+    <orderEntry type="module" module-name="28-window-supress" />
+    <orderEntry type="module" module-name="20-rewards-table" />
+    <orderEntry type="module" module-name="09-pos-validator" />
+    <orderEntry type="module" module-name="15-pos-simulator-avro" />
+    <orderEntry type="module" module-name="24-counting-window" />
+    <orderEntry type="module" module-name="main" />
+    <orderEntry type="module" module-name="14-avro-to-pojo" />
+    <orderEntry type="module" module-name="31-kstream-gktable-join" />
+    <orderEntry type="module" module-name="29-kstream-join" />
+    <orderEntry type="module" module-name="13-json-to-pojo" />
+    <orderEntry type="module" module-name="21-kstream-aggregate" />
+    <orderEntry type="module" module-name="11-pos-fanout" />
+    <orderEntry type="module" module-name="33-advert-ctr" />
+    <orderEntry type="module" module-name="05-pos-simulator" />
+    <orderEntry type="module" module-name="17-rewards-in-memory-state" />
+    <orderEntry type="module" module-name="23-ktable-aggregate" />
+    <orderEntry type="module" module-name="26-hopping-window" />
+    <orderEntry type="module" module-name="30-ktable-join" />
+    <orderEntry type="module" module-name="27-session-window" />
+    <orderEntry type="module" module-name="32-top3-news" />
+  </component>
+</module>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/LearningJournal/12-json-to-pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/12-json-to-pojo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/13-json-to-pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/13-json-to-pojo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/15-pos-simulator-avro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/15-pos-simulator-avro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/16-pos-fanout-avro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/16-pos-fanout-avro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/17-rewards-in-memory-state/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/17-rewards-in-memory-state/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/18-streaming-table/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/18-streaming-table/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/20-rewards-table/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/20-rewards-table/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/21-kstream-aggregate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/21-kstream-aggregate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/22-age-count/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/22-age-count/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/23-ktable-aggregate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/23-ktable-aggregate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/24-counting-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/24-counting-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/25-window-grace/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/25-window-grace/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/26-hopping-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/26-hopping-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/27-session-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/27-session-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/28-window-supress/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/28-window-supress/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/29-kstream-join/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/29-kstream-join/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/30-ktable-join/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/30-ktable-join/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/31-kstream-gktable-join/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/31-kstream-gktable-join/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/32-top3-news/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/32-top3-news/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/33-advert-ctr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/33-advert-ctr/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/34-topology-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/34-topology-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/35-ktable-aggregate-query/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LearningJournal/35-ktable-aggregate-query/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edge/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

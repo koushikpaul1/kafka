@@ -1,0 +1,16 @@
+0
+14
+hello-producer-topic 3 100817
+hello-producer-topic 4 99901
+edge 2 0
+hello-producer-topic 0 1100612
+hello-producer-topic 2 100206
+invoice 0 166438
+edge 0 1
+__consumer_offsets 2 0
+invoice 2 167127
+__consumer_offsets 0 0
+edge 1 0
+__consumer_offsets 1 4
+invoice 1 166435
+hello-producer-topic 1 99766

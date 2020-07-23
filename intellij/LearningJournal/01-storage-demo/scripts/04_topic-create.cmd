@@ -1,0 +1,1 @@
+kafka-topics.bat --create --zookeeprer localhost:2181 --torpic invoice --partitions 5 --replication-factor 3 --config segment.bytes=1000000
